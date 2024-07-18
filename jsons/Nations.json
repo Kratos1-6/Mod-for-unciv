@@ -1,31 +1,31 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Alemania",
+		"leaderName": "Adolph Hitler",
+	
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "El tercer Reich te saluda",
+		"startIntroPart2": "Los judíos morirán!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "El reich ha decidido liberar tu tierra de judíos",
+		"attacked": "¿Estás seguro de lo que estás intentando?",
+		"defeated": "Hitler se suicidó...",
+		"introduction": "El reich que liberará al mundo",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Saludos",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": [No,
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "¿Qué quieres judío?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Bien , te rindes entonces ",
+		"tradeRequest": "Deberías aceptar esta oferta",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
