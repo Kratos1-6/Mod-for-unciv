@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
+		"name": "Panzer",
+		"unitType": "Blindado",
 		"uniqueTo": "Aliens",
 		"replaces": "Machine Gun",
 		"movement": 2,
